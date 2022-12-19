@@ -12,7 +12,7 @@ Obrigado por checar meu projeto
 
 
 [🔗Clique Aqui  para acessar](
-
+https://github.com/douglasliman/interactive-rating-component-main/deployments/activity_log?environment=github-pages
 )
 
 
