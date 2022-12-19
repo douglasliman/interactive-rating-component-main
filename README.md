@@ -8,8 +8,6 @@ Obrigado por checar meu projeto
 
 É um desafio do [Frontend Mentor](https://www.frontendmentor.io) para melhorar as habilidade de programação
 
-**Para fazer esse desafio é preciso saber HTML, CSS and JavaScript.**
-
 
 [🔗Clique Aqui  para acessar](
 https://github.com/douglasliman/interactive-rating-component-main/deployments/activity_log?environment=github-pages
