@@ -25,7 +25,7 @@ Obrigado por checar meu projeto
 ## Contato
 [LinkedIn](
    https://www.linkedin.com/in/douglas-queiroz/
-)
+) <br>
 douglas.lima.queiroz@gmail.com
 
 
