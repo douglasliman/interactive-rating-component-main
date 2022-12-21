@@ -44,7 +44,7 @@ border-radius: 30px;
 }
 .main-container img{
     background-color:#262E38; 
-    padding: 0.75rem;
+    padding:1.2rem;
     border-radius: 50%;
     margin-bottom: 30px;
 
@@ -71,7 +71,7 @@ p{
 }
 .main-container ul li .btn-selector{
     background-color:#262E38; 
-    padding: 0.75rem;
+    padding: 0.76rem;
     border-radius: 50%;
     height: 51px;
     width: 51px;
