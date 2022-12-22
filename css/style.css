@@ -35,17 +35,17 @@ button{
     font-family: inherit;
 }
 .main-container, .thank-you{
-    padding: 1.5rem;
+    padding: 1rem;
     height: 416px;
     width: 412px;
     border-radius: 30px;
-    padding: 42px;
+    padding: 25px;
     background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
 border-radius: 30px;
 }
 .main-container img{
     background-color:#262E38; 
-    padding:1.2rem;
+    padding:1rem;
     border-radius: 50%;
     margin-bottom: 30px;
 
