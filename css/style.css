@@ -23,7 +23,7 @@ body{
     font-family: 'Overpass' ,'sans-serif'; 
     font-size: 15px;
     background-color: hsl(216, 12%, 8%);
-    margin: 1.5rem;
+    margin: 1.6rem;
     display: flex;
     flex-direction: column;
     align-items: center;
